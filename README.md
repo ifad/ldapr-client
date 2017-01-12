@@ -1,6 +1,6 @@
 # LDAPR Client
 
-A simple client to consume the LDAPR API
+A simple client to consume the LDAPR API. Based on Hawk.
 
 ## Installation
 
@@ -45,3 +45,7 @@ Thimios Dimopulos (e.dimopoulos@ifad.org)
 ### 0.1.0
 
 - Initial release
+=======
+# ldapr-client
+REST API Client for ldapr. Based on Hawk.
+
